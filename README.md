@@ -123,3 +123,5 @@
 <p align="center">
   ⭐️ From <b>Abhishek Dhiman</b> | Building Intelligent & Scalable Systems 🚀
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet"/>
