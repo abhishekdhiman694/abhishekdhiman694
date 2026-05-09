@@ -131,7 +131,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhishek%20Dhiman&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Builder&descAlignY=52&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=🚀+Full+Stack+Developer+%7C+MERN+Stack;🤖+AI+%26+Voice+Agent+Engineer;🔥+Building+Real-World+AI+Products;⚡+Node.js+%7C+React+%7C+Python+%7C+Firebase;💡+Turning+Ideas+into+Scalable+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=🚀+Full+Stack+Developer+%7C+MERN+Stack;🤖+AI+%26+Voice+Agent+Engineer;🔥+Building+Real-World+AI+Products;⚡+Node.js+%7C+React+%7C+Python+%7C+Firebase;💡+Turning+Ideas+into+Scalable+Systems"  />
 
 <br/>
 
