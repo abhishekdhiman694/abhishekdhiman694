@@ -7,7 +7,7 @@
 <br/>
 
 [![Website](https://img.shields.io/badge/Leadvox_AI-leadvoxai.com-6C4CFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://leadvoxai.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhihsek-dhiman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-dhiman-0a7276259)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhishekdhiman694)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishek46.be22@chitkara.edu.in)
 [![Profile Views](https://komarev.com/ghpvc/?username=abhishekdhiman694&color=6C4CFF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/abhishekdhiman694)
@@ -302,7 +302,7 @@ I'm open to **collaborations**, **partnerships**, and **full-time opportunities*
 `AI Voice Systems` `Full Stack Development` `AI Engineering` `Next.js` `SaaS`
 
 [![Leadvox AI](https://img.shields.io/badge/Try_Leadvox_AI-leadvoxai.com-6C4CFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://leadvoxai.com)
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhihsek-dhiman)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-dhiman-0a7276259)
 [![Email](https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishek46.be22@chitkara.edu.in)
 
 </div>
