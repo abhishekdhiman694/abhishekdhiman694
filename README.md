@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abhishek%20Dhiman&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Founder%20%40%20Leadvox%20AI%20%7C%20Full%20Stack%20%26%20Voice%20AI%20Engineer&descAlignY=52&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abhishek%20Dhiman&fontSize=44&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Founder%20%40%20Leadvox%20AI%20%7C%20Full%20Stack%20%26%20Voice%20AI%20Engineer&descAlignY=52&descSize=18"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=650&lines=Building+Leadvox+AI+%F0%9F%93%9E+%E2%80%94+AI+Voice+Agents+for+Business;Full+Stack+Developer+%7C+Next.js+%2B+Node.js;AI+%26+Voice+Agent+Engineer;LiveKit+%7C+LLMs+%7C+Real-Time+Telephony;Turning+Ideas+into+Production+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=900&lines=Building+Leadvox+AI+%F0%9F%93%9E+%E2%80%94+AI+Voice+Agents+for+Business;Full+Stack+Developer+%7C+Next.js+%2B+Node.js;AI+%26+Voice+Agent+Engineer;LiveKit+%7C+LLMs+%7C+Real-Time+Telephony;Turning+Ideas+into+Production+Systems" alt="Typing SVG" />
 
 <br/>
 
@@ -311,7 +311,7 @@ I'm open to **collaborations**, **partnerships**, and **full-time opportunities*
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn"/>
 
 **⭐ If you like my work, consider starring my repos — it motivates me to build more! 🚀**
 
