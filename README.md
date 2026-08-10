@@ -259,11 +259,18 @@ const abhishek = {
 
 ---
 
-## 🏆 GitHub Trophies
+<!--
+  GitHub Trophies section removed: the shared github-profile-trophy.vercel.app
+  instance is currently returning 402 DEPLOYMENT_DISABLED (the maintainer's
+  free-tier Vercel quota is exhausted, not something fixable from this repo).
+  Re-add this block if/when that service comes back online:
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishekdhiman694&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
-</div>
+  ## 🏆 GitHub Trophies
+
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=abhishekdhiman694&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+  </div>
+-->
 
 ---
 
