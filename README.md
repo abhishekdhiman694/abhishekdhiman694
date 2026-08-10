@@ -1,145 +1,36 @@
-<!-- <h1 align="center">Hi 👋, I'm Abhishek Dhiman</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Stack | AI Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Computer+Science+Engineer;MERN+Stack+Developer;AI+%26+ML+Builder;REST+API+Designer;Always+Learning+New+Tech"/>
-</p>
-
----
-
-## 🌈 Professional Summary
-
-✨ Proactive Computer Science Engineering student  
-💡 Strong in Full Stack Development & AI Systems  
-🔐 Passionate about Secure & Scalable Applications  
-🧠 Analytical Thinker | Debugger | Problem Solver  
-🎯 Focused on Real-World Engineering Solutions  
-
----
-
-## 🛠️ Tech Stack
-
-### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
-
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
-</p>
-
-### 🧰 Developer Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/CI/CD-0A66C2?style=for-the-badge"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🏋️ AI-Powered Gym Management System
-✔ Built with MERN Stack + Firebase + Razorpay  
-✔ AI Chatbot for fitness & diet suggestions  
-✔ JWT Authentication & Secure Payments  
-
----
-
-### 🎯 AI Interview Preparation App
-✔ AI Question Generation using Groq API  
-✔ JWT Secured Backend & Protected Routes  
-✔ Real-Time Analytics Dashboard  
-
----
-
-### 🖼️ Image Sorting using Machine Learning
-✔ Python + OpenCV + Computer Vision  
-✔ 90%+ Accuracy Classifier  
-✔ Automated Categorization System  
-
----
-
-### 🤖 AI Chatbot
-✔ LangChain + Flask + OpenAI API  
-✔ Embeddings + Reasoning Responses  
-✔ Scalable REST API Integration  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekdhiman694&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekdhiman694&theme=tokyonight"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p>
-  <a href="https://linkedin.com/in/abhihsek-dhiman">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/abhishekdhiman694">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
----
-
-## ✨ Interests
-
-💻 Full Stack Development  
-🧠 System Design  
-🤖 AI & Machine Learning  
-🌍 Open Source Contributions  
-📚 Continuous Self-Learning  
-
----
-
-<p align="center">
-  ⭐️ From <b>Abhishek Dhiman</b> | Building Intelligent & Scalable Systems 🚀
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet"/> -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhishek%20Dhiman&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Builder&descAlignY=52&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abhishek%20Dhiman&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Founder%20%40%20Leadvox%20AI%20%7C%20Full%20Stack%20%26%20Voice%20AI%20Engineer&descAlignY=52&descSize=18"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%7C+MERN+Stack;AI+%26+Voice+Agent+Engineer;Building+Real-World+AI+Products;Node.js+%7C+React+%7C+Python+%7C+Firebase;Turning+Ideas+into+Scalable+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=650&lines=Building+Leadvox+AI+%F0%9F%93%9E+%E2%80%94+AI+Voice+Agents+for+Business;Full+Stack+Developer+%7C+Next.js+%2B+Node.js;AI+%26+Voice+Agent+Engineer;LiveKit+%7C+LLMs+%7C+Real-Time+Telephony;Turning+Ideas+into+Production+Systems" alt="Typing SVG" />
 
 <br/>
 
+[![Website](https://img.shields.io/badge/Leadvox_AI-leadvoxai.com-6C4CFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://leadvoxai.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhihsek-dhiman)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhishekdhiman694)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishek46.be22@chitkara.edu.in)
-[![Profile Views](https://komarev.com/ghpvc/?username=abhishekdhiman694&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/abhishekdhiman694)
+[![Profile Views](https://komarev.com/ghpvc/?username=abhishekdhiman694&color=6C4CFF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/abhishekdhiman694)
 
 </div>
+
+---
+
+### `$ neofetch`
+
+```yaml
+abhishek@leadvox-ai
+───────────────────
+OS            : Windows 11 + WSL2 Ubuntu
+Role          : Founder & Full-Stack / AI Voice Engineer
+Building      : Leadvox AI — autonomous AI calling agents 📞🤖
+University    : Chitkara University, Punjab (B.E. CSE — 2026)
+Location      : Rajpura, Punjab, India 🇮🇳
+Languages.Dev : TypeScript, JavaScript, Python, Java, C++
+Stack         : Next.js · Node.js · LiveKit · Postgres · LLMs
+Shell         : whoami --projects
+Fun Fact      : I build AI that can literally call people on the phone.
+```
 
 ---
 
@@ -148,11 +39,10 @@
 ```typescript
 const abhishek = {
   name        : "Abhishek Dhiman",
-  role        : "Full Stack Developer & AI Engineer",
+  role        : "Founder — Leadvox AI | Full Stack Developer & AI Voice Engineer",
   university  : "Chitkara University, Punjab (B.E. CSE — 2026)",
   location    : "Rajpura, Punjab, India 🇮🇳",
-  agency      : "Abhishek's Automation Agency",
-  currentFocus: ["AI Voice Agents", "MERN Stack Apps", "LLM Integration"],
+  currentFocus: ["Leadvox AI", "AI Voice Agents", "Next.js SaaS", "LLM Integration"],
   languages   : ["English", "Hindi", "Punjabi"],
   funFact     : "I build AI that can literally call people on the phone 📞🤖",
 };
@@ -160,7 +50,32 @@ const abhishek = {
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Flagship Product
+
+<div align="center">
+
+### 📞 Leadvox AI — AI Voice Agents for Business
+[![Live](https://img.shields.io/badge/Live%20Product-leadvoxai.com-6C4CFF?style=for-the-badge&logo=vercel&logoColor=white)](https://leadvoxai.com)
+
+</div>
+
+> **AI voice agents that call, qualify, and follow up with your leads automatically** — across voice, WhatsApp, and Facebook/Instagram. Built end-to-end as a production SaaS: multi-tenant dashboard, billing, and real-time telephony.
+
+| Feature | Stack |
+|---|---|
+| 🎙️ Outbound/inbound AI calling agents with real-time conversation | **LiveKit + LLM Pipeline** |
+| 💬 Automated WhatsApp & Meta (FB/Instagram) lead follow-up | **Meta Graph API** |
+| 🏢 Multi-tenant dashboard with RBAC & admin console | **Next.js 16 + Better Auth** |
+| 💳 Subscription billing & welcome offers | **Razorpay** |
+| 🗓️ Meeting scheduling with Google Calendar sync | **Google Calendar API** |
+| 📊 Call logs, numbers, campaigns & analytics | **Drizzle ORM + PostgreSQL** |
+| 📧 Transactional email & support workflows | **Resend / Nodemailer** |
+
+`Next.js 16` `TypeScript` `LiveKit` `Better Auth` `Drizzle ORM` `PostgreSQL` `Razorpay` `AI SDK` `TailwindCSS`
+
+---
+
+## 🎯 More Featured Projects
 
 <div align="center">
 
@@ -191,7 +106,7 @@ const abhishek = {
 
 </div>
 
-> **Ultra-low latency** AI voice agent that makes and receives real phone calls using SIP trunking — production-deployed.
+> **Ultra-low latency** AI voice agent that makes and receives real phone calls using SIP trunking — the R&D that grew into Leadvox AI.
 
 | Feature | Stack |
 |---|---|
@@ -245,9 +160,28 @@ const abhishek = {
 
 ---
 
+## 🧰 Other Things I've Built
+
+<div align="center">
+
+| Project | Description | Stack |
+|---|---|---|
+| 💊 **PharmaCare AI** | AI assistant for pharmacy e-commerce | NLP, React, APIs |
+| 📚 **MERN Bookstore** | Full-stack online bookstore | React, Node, Express, MongoDB |
+| 🗳️ **Voting System** | Admin, candidate & voter dashboards | MERN |
+| 🧱 **BhuMe** | Boundary / land-mapping starter platform | Full-stack web |
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,py,java,cpp,react,nextjs,html,css,tailwind,nodejs,express,mongodb,postgres,firebase,docker,git,github,vercel" />
+
+<br/><br/>
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -265,7 +199,7 @@ const abhishek = {
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### AI & ML
+### AI, Voice & LLMs
 ![Groq](https://img.shields.io/badge/Groq_AI-F55036?style=for-the-badge&logo=ai&logoColor=white)
 ![LiveKit](https://img.shields.io/badge/LiveKit-000000?style=for-the-badge&logo=webrtc&logoColor=white)
 ![Deepgram](https://img.shields.io/badge/Deepgram_STT-00D4AA?style=for-the-badge)
@@ -274,6 +208,7 @@ const abhishek = {
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 
 ### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -310,6 +245,20 @@ const abhishek = {
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishekdhiman694/abhishekdhiman694/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishekdhiman694/abhishekdhiman694/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abhishekdhiman694/abhishekdhiman694/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -325,10 +274,21 @@ $ whoami --projects
 ```
 
 ```
+📞 Leadvox AI            → AI Voice Agents SaaS  (leadvoxai.com 🔴 Live)
 🔱 Dharmic Essentials    → AI Spiritual Marketplace (Production ✅)
-📞 LiveKit Voice Agent   → PSTN AI Calling System  (Production ✅)
-🚀 Abhishek's Agency    → Full-Stack Digital Agency (Active 🔥)
-📚 IOHE Research Paper  → LiveKit + LLM Architecture (Published ✅)
+📚 IOHE Research Paper   → LiveKit + LLM Architecture (Published ✅)
+```
+
+---
+
+## 🎯 2026 Goals
+
+```text
+🚀 Grow Leadvox AI into a category-leading AI calling platform
+🤖 Build faster, more natural real-time voice agents
+🌍 Ship products used by real businesses, not just demos
+💻 Get stronger at scalable, multi-tenant system design
+📈 Keep shipping consistently, one commit at a time
 ```
 
 ---
@@ -337,10 +297,11 @@ $ whoami --projects
 
 <div align="center">
 
-I'm open to **freelance projects**, **collaborations**, and **full-time opportunities** in:
+I'm open to **collaborations**, **partnerships**, and **full-time opportunities** in:
 
-`Full Stack Development` `AI Engineering` `Voice AI Systems` `MERN Stack` `Node.js`
+`AI Voice Systems` `Full Stack Development` `AI Engineering` `Next.js` `SaaS`
 
+[![Leadvox AI](https://img.shields.io/badge/Try_Leadvox_AI-leadvoxai.com-6C4CFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://leadvoxai.com)
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhihsek-dhiman)
 [![Email](https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishek46.be22@chitkara.edu.in)
 
@@ -356,5 +317,4 @@ I'm open to **freelance projects**, **collaborations**, and **full-time opportun
 
 *"Building intelligent systems, one commit at a time."* — **Abhishek Dhiman**
 
-</div>
 </div>
