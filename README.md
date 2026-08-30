@@ -102,7 +102,7 @@ const abhishek = {
 <div align="center">
 
 ### 📞 LiveKit AI Voice Agent — PSTN Telephony System
-[![Repo](https://img.shields.io/badge/AI%20Voice%20Agent-LiveKit%20%2B%20Groq-0066CC?style=for-the-badge&logo=python&logoColor=white)](https://github.com/abhishekdhiman694)
+[![Repo](https://img.shields.io/badge/AI%20Voice%20Agent-LiveKit%20%2B%20Groq-0066CC?style=for-the-badge&logo=python&logoColor=white)](https://github.com/abhishekdhiman694/LeadVox-Ai)
 
 </div>
 
@@ -111,8 +111,8 @@ const abhishek = {
 | Feature | Stack |
 |---|---|
 | 📡 Real-time PSTN calls via SIP trunking | **LiveKit Cloud + Vobiz** |
-| 🎤 Hindi speech recognition under 200ms | **Deepgram Nova-2 STT** |
-| 🗣️ Natural Indian voice synthesis | **Sarvam AI Bulbul v2 TTS** |
+| 🎤 Hindi speech recognition, ~250ms endpointing | **Deepgram Flux STT** |
+| 🗣️ Natural Indian voice synthesis, 24kHz | **Sarvam AI Bulbul v3 TTS** |
 | 🧠 Conversational reasoning & query logging | **Groq Llama 3.3-70B** |
 | 📲 Bulk outbound campaign dialer | **Next.js Dashboard** |
 | 🔀 Live call transfer to human agent | **SIP REFER Protocol** |
@@ -124,7 +124,7 @@ const abhishek = {
 <div align="center">
 
 ### 🏋️ AI-Powered Gym Management System
-[![Repo](https://img.shields.io/badge/Project-Gym%20Management-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/abhishekdhiman694)
+[![Repo](https://img.shields.io/badge/Project-Gym%20Management-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/abhishekdhiman694/GymProject)
 
 </div>
 
@@ -239,7 +239,7 @@ const abhishek = {
 -->
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-kohl-tau-46.vercel.app/api?username=abhishekdhiman694&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-kohl-tau-46.vercel.app/api?username=abhishekdhiman694&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true&bg_color=0D1117"/>
   <img height="180em" src="https://github-readme-stats-kohl-tau-46.vercel.app/api/top-langs/?username=abhishekdhiman694&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
