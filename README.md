@@ -230,17 +230,31 @@ const abhishek = {
 
 ## 📊 GitHub Stats
 
+<!--
+  These point at a self-hosted fork of anuraghazra/github-readme-stats, not
+  the shared github-readme-stats.vercel.app instance — that one is chronically
+  over GitHub's API rate limit and was returning 503. Self-hosting means our
+  own PAT and our own quota, so the cards stop breaking. Redeploy the fork if
+  the token ever expires.
+-->
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishekdhiman694&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekdhiman694&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-kohl-tau-46.vercel.app/api?username=abhishekdhiman694&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-kohl-tau-46.vercel.app/api/top-langs/?username=abhishekdhiman694&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekdhiman694&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=abhishekdhiman694&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 </div>
 
+<!--
+  The activity graph (github-readme-activity-graph.vercel.app) now returns
+  402 DEPLOYMENT_DISABLED — the maintainer's free-tier Vercel quota is
+  exhausted, exactly as happened to the trophies block below. Replaced with
+  a contribution chart that renders from a service which is currently up.
+-->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekdhiman694&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://ghchart.rshah.org/00D9FF/abhishekdhiman694" alt="Contribution chart" width="850"/>
 </div>
 
 ---
